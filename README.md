@@ -1,4 +1,4 @@
 # robloxenderman.github.io
-My Main Website!
+My main website filled with useful tools, websites, my social links, and so much more all related to me. Feel free to star, fork, or contribute to this project :)
 
-**http://games.jaxsonw.tk**
+**https://robloxenderman.github.io**
