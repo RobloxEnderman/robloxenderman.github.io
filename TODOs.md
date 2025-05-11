@@ -2,7 +2,6 @@
 This file goes into detail about what needs to be done in this project
 
 ## Top Priority
-- [ ] Rewrite the project with NextJS, TypeScript, ReactJS, and other useful tools and projects *(that are open source ofc)*
 - [ ] Create a Social Links section
 - [ ] Make a really clean style homepage with nice UI/UX animations.
 
