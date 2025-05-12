@@ -2,7 +2,7 @@
 This file goes into detail about what needs to be done in this project
 
 ## Top Priority
-- [ ] Create a Social Links section
+- [x] Create a Social Links section
 - [ ] Make a really clean style homepage with nice UI/UX animations.
 
 
@@ -22,3 +22,6 @@ This file goes into detail about what needs to be done in this project
 - [ ] Recreate the clicker game with more features, including but not limited to, shop, powerups, better anticheat, better save machanics, and so much more.
 - [ ] Recreate 2048 but with spins on mechanics, features, and many more options
 - [ ] Recreate an OpenTTD style game where you can build your own city in a sandbox playground.
+
+# Fixes
+- [ ] Fix UI animation on homepage.
